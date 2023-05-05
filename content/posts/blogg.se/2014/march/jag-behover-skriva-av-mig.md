@@ -1,0 +1,32 @@
+---
+title: "Jag behöver skriva av mig.."
+date: 2014-03-17T14:19:32+01:00
+slug: jag-behover-skriva-av-mig
+draft: false
+tags:
+- blogg.se
+- 2014
+---
+Vet inte riktigt hur det här inlägget kommer bli, för jag är helt upprymd av känslor just nu, nästan så att jag skakar lite inombords. Jag är ledsen över att livet är så orättvist.. Läste just en dödsannons som en vän på facebook publicerade.. Hennes pappa dog för sex år sen, det är helt ofattbart orättvist.. Jag är så himmla lycklig över att jag inte får mista min pappa så tidigt. Och sen tänker jag på min fina mamma, en av hennes närmaste miste sin son nyligen och han var inte ens vuxen.. Så in i helvetes orättvist. Jag vill inte att min mamma eller pappa ska få uppleva samma sak med mig.  
+Jag ska försöka kämpa mig framåt och uppåt. Precis som jag skrev för några inlägg sen: kan jag inte göra det för mig själv så ska jag fanimej göra det för er alla andra.  
+Jag vet att ni älskar mig, även om jag är rätt trasig just nu. Det är så svårt att uttrycka sig. Jag vet inte varför jag sitter här och gråter, ibland känns det som att jag gråter för att jag är lycklig, för att jag lever, för att det är sol och jag har en fin hund vid min sida.. menibland känns det som jag gråter för att jag är ledsen, för att jag kanske ska försvinna, aldrig mer få se solen eller min fina hund.  
+Jag hatar den här perioden i mitt liv, och jag hatar hur jag beter mig. Jag vill bara vara vanliga snälla glada underbara camilla som älskar så mycket.. Men det är tufft. Att ständigt få begränsningar är jobbigt, och ännu värre att behöva acceptera att man är sjuk och inte självständig längre. Jag är 23 år.. jag är faktikst inte 75.. det är så jävla orättvist.  
+  
+Samtidigt så känner jag att jag kan inte gå runt och tänka såhär, för vadfan tjänar det till?  
+Jag läste att en som har hjärtsvikt ska försöka röra på sig (trädgårdsarbete, cykla, gå, enkla gymnastikövningar eller så) ca 20-30 minuter ca 3-5dagar i veckan.. först så tänkte jag "nej, fuck det. jag hatar att träna och jag hatar att gå och jag hatar allt som har med träning att göra. jag tänker inte ändra mig själv för att min jävla sjukdom säger det till mig".. Sen tänkte jag, senare igår kväll, att jag är så jävla dum. Om jag inte vill ändra mig, vem fan ska då kunna förbättra situationen för mig?  
+Du, och endast du, styr ditt liv. Jag gör mina val och jag tänker inte vara en självisk jävla fitta. Jag tänker försöka röra på mig 3-5gånger i veckan, jag ska försöka väga mig varje morgon och ta medicinerna i rätt tid osv försöka bli en bättre Camilla när det handlar om egenvård. Förr kunde jag vara superdisciplinerad på skolan, men jag kan inte ens sköta mina mediciner? fuck det, vad fan är det för jävla inställning.  
+  
+Jag blir arg på mig själv. Och jag vet att alla "negativa tankar" inte är något bra för en nedstämd människa.. men jag tror och hoppas att den ilskan kan ge mig liten start-kick eller något. Ja...  
+  
+Och förövrigt var det inte ens det här jag tänkte skriva om.. Tänkte skriva om när jag gick till läkaren idag.. Jag skulle kolla upp en liten plupp (som jag trodde var en vårta) som jag har på min hand.. besöket tog ca 5 minuter.. Och det tog honom ca 30 sekunder att berätta för mig att det var visst en vårta och jag skulle göra som jag trodde jag skulle göra (dvs fila och hälla vårtmedel på)...Men sen frågade han mig om mitt hjärtfel.. Jag upplever aldrig dom frågorna som stötande eller konstiga eller "du har inget med det att göra".. Även om han bara skulle kolla på min hand så var han intresserad av vad fan som händer med mig.. Och jag blev rörd, samtidigt som jag förstår att det han undrade över var nog ur ett läkar-perspektiv, att han var intresserad av det eftersom han är trots allt en läkare.. Men jag tyckte det var fint av honom att fråga, och då tänkte jag "_att om jag tänker så, istället för "du har inget att göra med det här, gubbjävel" så kanske jag ändå har en bit av den bra camilla kvar där inne nån stans"_  
+och jag hoppas det . Jag hoppas det som in i helvete. Jag vill bli bättre, fysiskt och psykiskt och medmänskligt och vardagligt. Bara som jag var innan. Orka mera, ta tag i saker, sluta lipa över saker man inte kan förändra, sluta grubbla och sluta vara dum mot mig själv. Älska mig själv mera och ta hand om mina närstående.
+
+Doktorn sa till mig "jag läste delar av din journal och det är verkligen mycket olika problem du har, men du verkar ju så frisk när man tittar på dig. Du är så pigg"  
+och det är något jag alltid får höra. Men det är ju lite grejen med hjärtfel; man ser dom inte på utsidan över huvud taget.. Och jag är tacksam över att han upplevde mig som pigg och glad, för jag känner mig mer sällan pigg och glad, men vissa stunder så känner jag mig fortfarande som att jag är "on top of the world", och så vill jag alltid känna mig, precis som förr.  
+Jag ogillar förändringar och jag ogillar begränsningar.  
+Just den stunden jag var hos läkaren, och både innan och efter, så kände jag mig som 15 igen.. Gick runt där med mina slitna brallor och converse, kände gruset under dojjorna och jag ville bara åka lite bräda.. Sen kom tanken "du kan inte det".. jag blev så jävla förbannad. Sen satte jag mig i bilen och körde till vårdcentralen.. Och jag kände att fyfan vad härligt med vädret. Jag älskar det. Jag klev ur bilen och gick in till vårdcentralen, så skymtar jag mig själv i glas-dörren och tänker "fyfan vad jag är snygg och cool" .. Sen sitter jag i väntrummet och då är det en liten unge som pratar om fiskarna i akvariumet.. Det påminde mig om min pappa och mig i väntrummet på hjärtavdelningen för barn i jönköping, och om när vi pratade om fiskarna som fanns i det akvariumet i jönköping.. Och jag blev glad, mådde bra och kände att mitt liv är inte som alla andras, men vafan ska det upplevas så dåligt för? Jag känner att jag har stabila relationer (okej, så länge inte jag flippar ut och är labil...) och en gott fint liv, egentligen.. Så varför är jag ens ledsen?  
+Jag gick in till läkaren och allt kändes jättebra.. även om han frågade mig om mina problem.. och sen gick jag ut därifrån.  
+Hela tiden sen dess har jag mått bra, men sen läser jag en dödsannons och jag börjar lipa och bli skakig? vad ända in i helvete liksom..  
+Nu kom en service-kille precis lagom tills att jag inte har något mer att skriva..  
+Han ska fixa handtaget på frysen som är paj.  
+Så vi hörs :)

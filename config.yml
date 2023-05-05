@@ -1,5 +1,5 @@
-baseURL: "https://1two3code.github.io/"
-languageCode: "en-us"
+baseURL: "https://msdinklepuff.github.io/"
+languageCode: "sv-se"
 title: "Camilla"
 theme: "PaperMod"
 paginate: 5
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Camilla
+  description: "Camilla's blog with full history"
   keywords: [Blog]
-  author: Me
+  author: Camilla
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -53,16 +53,16 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "GameDev"
+    text: "Camilla"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: Camilla
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "https://avatars.githubusercontent.com/u/124701105"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -74,16 +74,20 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello 👋"
-    Content: Welcome to our portfolio and blog
+    Title: "Hej ❤"
+    Content: <3 hej
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/msdinklepuff"
+    - name: instagram
+      url: "https://www.instagram.com/msdinklepuff"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/camilla-l%C3%B6fgren-1b9a46191/"
+    - name: twitch
+      url: "https://www.twitch.tv/msdinklepuff"
     - name: github
-      url: "https://github.com/1two3code"
+      url: "https://github.com/msdinklepuff"
 
   analytics:
     google:
@@ -99,8 +103,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/1two3code.github.io/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/msdinklepuff/msdinklepuff.github.io/edit/main/content/"
+    Text: "Edit 🖋" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -123,17 +127,27 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: Docs
-      name: docs
-      url: https://docs.nobes.gg
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
+
 markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      xhtml: false
+
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
